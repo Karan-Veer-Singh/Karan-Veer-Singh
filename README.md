@@ -21,7 +21,7 @@
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 
-<a href="www.linkedin.com/in/karanveer-singh-6a2507238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanveer singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karanveer-singh-6a2507238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanveer singh" height="30" width="40" /></a>
 <a href="https://www.facebook.com/karanveer.singh.75839923/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karanveer singh" height="30" width="40" /></a>
 <a href="https://leetcode.com/Karanveer__Singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karanveer__singh" height="30" width="40" /></a>
 
